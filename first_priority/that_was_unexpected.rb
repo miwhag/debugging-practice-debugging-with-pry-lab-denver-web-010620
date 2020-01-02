@@ -1,5 +1,5 @@
 class Person
- def  attr_accessor :name, :candy_lover
+ attr_accessor :name, :candy_lover
 binding.pry 
 
   def initialize(name, candy_lover)
